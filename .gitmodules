@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/noaa-fisheries-integrated-toolbox/noaa-fisheries-integrated-toolbox.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "SSMSE"]
+	path = SSMSE
+	url = https://github.com/nmfs-fish-tools/SSMSE
+	shallow = true
+	registered = true
+[submodule "ghbackup"]
+	path = ghbackup
+	url = https://github.com/nmfs-fish-tools/ghbackup
+	shallow = true
+	registered = true
+[submodule "codespaces4r"]
+	path = codespaces4r
+	url = https://github.com/nmfs-fish-tools/codespaces4r
+	shallow = true
+	registered = true
+[submodule "nmfspalette"]
+	path = nmfspalette
+	url = https://github.com/nmfs-fish-tools/nmfspalette
+	shallow = true
+	registered = true
