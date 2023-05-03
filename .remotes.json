@@ -1,5 +1,12 @@
 [
   {
+    "package": "TMB",
+    "url": "https://github.com/kaskr/adcomp",
+    "via": ["wham"],
+    "subdir": "TMB",
+    "from": "wham"
+  },
+  {
     "package": "TMBhelper",
     "url": "https://github.com/kaskr/TMB_contrib_R",
     "via": ["FishLife"],

@@ -71,6 +71,11 @@
 [submodule "nmfspalette"]
 	path = nmfspalette
 	url = https://github.com/nmfs-fish-tools/nmfspalette
+[submodule "TMB"]
+	path = TMB
+	url = https://github.com/kaskr/adcomp
+	subdir = TMB
+	registered = false
 [submodule "TMBhelper"]
 	path = TMBhelper
 	url = https://github.com/kaskr/TMB_contrib_R
