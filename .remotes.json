@@ -1,10 +1,30 @@
 [
   {
+    "package": "TMBhelper",
+    "url": "https://github.com/kaskr/TMB_contrib_R",
+    "via": ["FishLife"],
+    "subdir": "TMBhelper",
+    "from": "FishLife"
+  },
+  {
+    "package": "ThorsonUtilities",
+    "url": "https://github.com/james-thorson/utilities",
+    "via": ["FishLife"],
+    "from": "FishLife"
+  },
+  {
     "package": "r4ss",
     "url": "https://github.com/r4ss/r4ss",
     "via": ["SSMSE"],
     "branch": "main",
     "from": "SSMSE"
+  },
+  {
+    "package": "rfishbase",
+    "url": "https://github.com/ropensci/rfishbase",
+    "via": ["FishLife"],
+    "branch": "fb-21.06",
+    "from": "FishLife"
   },
   {
     "package": "ss3sim",
