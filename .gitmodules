@@ -8,9 +8,9 @@
 	url = https://github.com/nmfs-fish-tools/SSMSE
 	shallow = true
 	registered = true
-[submodule "ghbackup"]
-	path = ghbackup
-	url = https://github.com/nmfs-fish-tools/ghbackup
+[submodule "ghBackup"]
+	path = ghBackup
+	url = https://github.com/nmfs-fish-tools/ghBackup
 	shallow = true
 	registered = true
 [submodule "codespaces4r"]
