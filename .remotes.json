@@ -20,6 +20,20 @@
     "from": "FishLife"
   },
   {
+    "package": "assertive.properties",
+    "url": "https://github.com/cran/assertive.properties",
+    "via": ["SSMSE"],
+    "branch": "master",
+    "from": "SSMSE"
+  },
+  {
+    "package": "assertive.types",
+    "url": "https://github.com/cran/assertive.types",
+    "via": ["SSMSE"],
+    "branch": "master",
+    "from": "SSMSE"
+  },
+  {
     "package": "r4ss",
     "url": "https://github.com/r4ss/r4ss",
     "via": ["SSMSE"],
