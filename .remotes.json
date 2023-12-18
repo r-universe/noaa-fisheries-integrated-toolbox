@@ -7,19 +7,6 @@
     "from": "wham"
   },
   {
-    "package": "TMBhelper",
-    "url": "https://github.com/kaskr/TMB_contrib_R",
-    "via": ["FishLife"],
-    "subdir": "TMBhelper",
-    "from": "FishLife"
-  },
-  {
-    "package": "ThorsonUtilities",
-    "url": "https://github.com/james-thorson/utilities",
-    "via": ["FishLife"],
-    "from": "FishLife"
-  },
-  {
     "package": "assertive.properties",
     "url": "https://github.com/cran/assertive.properties",
     "via": ["SSMSE"],

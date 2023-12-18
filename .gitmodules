@@ -31,15 +31,6 @@
 	url = https://github.com/kaskr/adcomp
 	subdir = TMB
 	registered = false
-[submodule "TMBhelper"]
-	path = TMBhelper
-	url = https://github.com/kaskr/TMB_contrib_R
-	subdir = TMBhelper
-	registered = false
-[submodule "ThorsonUtilities"]
-	path = ThorsonUtilities
-	url = https://github.com/james-thorson/utilities
-	registered = false
 [submodule "adnuts"]
 	path = adnuts
 	url = https://github.com/Cole-Monnahan-NOAA/adnuts
