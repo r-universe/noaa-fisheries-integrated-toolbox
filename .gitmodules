@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/noaa-fisheries-integrated-toolbox/noaa-fisheries-integrated-toolbox.r-universe.dev
 	branch = HEAD
+[submodule "FIMS"]
+	path = FIMS
+	url = https://github.com/noaa-fims/fims
 [submodule "FishEconProdOutput"]
 	path = FishEconProdOutput
 	url = https://github.com/EmilyMarkowitz-NOAA/FishEconProdOutput
@@ -82,7 +85,7 @@
 	url = https://github.com/r4ss/r4ss
 [submodule "rCAX"]
 	path = rCAX
-	url = https://github.com/nwfsc-math-bio/rCAX
+	url = https://nwfsc-cb.github.io/rCAX
 [submodule "rfishbase"]
 	path = rfishbase
 	url = https://github.com/ropensci/rfishbase
