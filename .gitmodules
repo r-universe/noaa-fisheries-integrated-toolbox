@@ -40,6 +40,11 @@
 [submodule "agTrend.gam"]
 	path = agTrend.gam
 	url = https://github.com/dsjohnson/agTrend.gam
+[submodule "assertive.base"]
+	path = assertive.base
+	url = https://github.com/cran/assertive.base
+	branch = master
+	registered = false
 [submodule "assertive.properties"]
 	path = assertive.properties
 	url = https://github.com/cran/assertive.properties
