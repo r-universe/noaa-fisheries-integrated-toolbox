@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/noaa-fisheries-integrated-toolbox/noaa-fisheries-integrated-toolbox.r-universe.dev
 	branch = HEAD
+[submodule "AgeingError"]
+	path = AgeingError
+	url = https://github.com/pfmc-assessments/AgeingError
 [submodule "FIMS"]
 	path = FIMS
 	url = https://github.com/noaa-fims/fims
