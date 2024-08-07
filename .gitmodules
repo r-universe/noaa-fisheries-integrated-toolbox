@@ -14,6 +14,9 @@
 [submodule "FishLife"]
 	path = FishLife
 	url = https://github.com/James-Thorson-NOAA/FishLife
+[submodule "FishSET"]
+	path = FishSET
+	url = https://github.com/noaa-nwfsc/FishSET
 [submodule "LHsampling"]
 	path = LHsampling
 	url = https://github.com/NOAA-LHP/LHsampling
