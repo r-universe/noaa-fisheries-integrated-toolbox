@@ -35,6 +35,11 @@
 [submodule "SSMSE"]
 	path = SSMSE
 	url = https://github.com/nmfs-fish-tools/SSMSE
+[submodule "TMB"]
+	path = TMB
+	url = https://github.com/kaskr/adcomp
+	subdir = TMB
+	registered = false
 [submodule "adnuts"]
 	path = adnuts
 	url = https://github.com/Cole-Monnahan-NOAA/adnuts
