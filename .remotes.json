@@ -1,0 +1,9 @@
+[
+  {
+    "package": "rfishbase",
+    "url": "https://github.com/ropensci/rfishbase",
+    "via": ["FishLife"],
+    "branch": "fb-21.06",
+    "from": "FishLife"
+  }
+]

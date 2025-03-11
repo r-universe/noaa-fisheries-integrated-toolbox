@@ -77,6 +77,11 @@
 [submodule "rCAX"]
 	path = rCAX
 	url = https://github.com/nwfsc-cb/rCAX
+[submodule "rfishbase"]
+	path = rfishbase
+	url = https://github.com/ropensci/rfishbase
+	branch = fb-21.06
+	registered = false
 [submodule "wham"]
 	path = wham
 	url = https://github.com/timjmiller/wham
