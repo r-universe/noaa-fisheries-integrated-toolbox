@@ -1,5 +1,82 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/noaa-fisheries-integrated-toolbox/noaa-fisheries-integrated-toolbox.r-universe.dev
 	branch = HEAD
+[submodule "AgeingError"]
+	path = AgeingError
+	url = https://github.com/pfmc-assessments/AgeingError
+[submodule "FIMS"]
+	path = FIMS
+	url = https://github.com/noaa-fims/fims
+[submodule "FishEconProdOutput"]
+	path = FishEconProdOutput
+	url = https://github.com/EmilyMarkowitz-NOAA/FishEconProdOutput
+[submodule "FishLife"]
+	path = FishLife
+	url = https://github.com/James-Thorson-NOAA/FishLife
+[submodule "FishSET"]
+	path = FishSET
+	url = https://github.com/noaa-nwfsc/FishSET
+[submodule "LHsampling"]
+	path = LHsampling
+	url = https://github.com/NOAA-LHP/LHsampling
+[submodule "MARSS"]
+	path = MARSS
+	url = https://github.com/atsa-es/MARSS
+[submodule "NWCTrends"]
+	path = NWCTrends
+	url = https://github.com/nwfsc-math-bio/NWCTrends
+[submodule "ObsCovgTools"]
+	path = ObsCovgTools
+	url = https://github.com/kacurtis/ObsCovgTools
+[submodule "Rpath"]
+	path = Rpath
+	url = https://github.com/NOAA-EDAB/Rpath
+[submodule "SSMSE"]
+	path = SSMSE
+	url = https://github.com/nmfs-fish-tools/SSMSE
+[submodule "adnuts"]
+	path = adnuts
+	url = https://github.com/Cole-Monnahan-NOAA/adnuts
+[submodule "agTrend.gam"]
+	path = agTrend.gam
+	url = https://github.com/dsjohnson/agTrend.gam
+[submodule "bayesdfa"]
+	path = bayesdfa
+	url = https://github.com/fate-ewi/bayesdfa
+[submodule "bycatch"]
+	path = bycatch
+	url = https://github.com/ericward-noaa/bycatch
+[submodule "eSDM"]
+	path = eSDM
+	url = https://github.com/smwoodman/eSDM
+[submodule "ghBackup"]
+	path = ghBackup
+	url = https://github.com/nmfs-fish-tools/ghBackup
+[submodule "ghactions4r"]
+	path = ghactions4r
+	url = https://github.com/nmfs-fish-tools/ghactions4r
+[submodule "glmmfields"]
+	path = glmmfields
+	url = https://github.com/seananderson/glmmfields
+[submodule "mizer"]
+	path = mizer
+	url = https://github.com/sizespectrum/mizer
+[submodule "nmfspalette"]
+	path = nmfspalette
+	url = https://github.com/nmfs-fish-tools/nmfspalette
+[submodule "phylosem"]
+	path = phylosem
+	url = https://github.com/James-Thorson-NOAA/phylosem
+[submodule "r4MAS"]
+	path = r4MAS
+	url = https://github.com/nmfs-fish-tools/r4MAS
+[submodule "r4ss"]
+	path = r4ss
+	url = https://github.com/r4ss/r4ss
+[submodule "rCAX"]
+	path = rCAX
+	url = https://github.com/nwfsc-cb/rCAX
+[submodule "wham"]
+	path = wham
+	url = https://github.com/timjmiller/wham
