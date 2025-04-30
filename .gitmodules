@@ -51,6 +51,16 @@
 	url = https://github.com/cran/assertive.base
 	branch = master
 	registered = false
+[submodule "assertive.properties"]
+	path = assertive.properties
+	url = https://github.com/cran/assertive.properties
+	branch = master
+	registered = false
+[submodule "assertive.types"]
+	path = assertive.types
+	url = https://github.com/cran/assertive.types
+	branch = master
+	registered = false
 [submodule "bayesdfa"]
 	path = bayesdfa
 	url = https://github.com/fate-ewi/bayesdfa
@@ -91,6 +101,11 @@
 	path = rfishbase
 	url = https://github.com/ropensci/rfishbase
 	branch = fb-21.06
+	registered = false
+[submodule "ss3sim"]
+	path = ss3sim
+	url = https://github.com/ss3sim/ss3sim
+	branch = main
 	registered = false
 [submodule "wham"]
 	path = wham
