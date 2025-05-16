@@ -34,7 +34,7 @@
 	url = https://github.com/NOAA-EDAB/Rpath
 [submodule "SSMSE"]
 	path = SSMSE
-	url = https://github.com/nmfs-fish-tools/SSMSE
+	url = https://github.com/nmfs-ost/SSMSE
 [submodule "TMB"]
 	path = TMB
 	url = https://github.com/kaskr/adcomp
@@ -72,10 +72,10 @@
 	url = https://github.com/smwoodman/eSDM
 [submodule "ghBackup"]
 	path = ghBackup
-	url = https://github.com/nmfs-fish-tools/ghBackup
+	url = https://github.com/nmfs-ost/ghBackup
 [submodule "ghactions4r"]
 	path = ghactions4r
-	url = https://github.com/nmfs-fish-tools/ghactions4r
+	url = https://github.com/nmfs-ost/ghactions4r
 [submodule "glmmfields"]
 	path = glmmfields
 	url = https://github.com/seananderson/glmmfields
@@ -84,13 +84,13 @@
 	url = https://github.com/sizespectrum/mizer
 [submodule "nmfspalette"]
 	path = nmfspalette
-	url = https://github.com/nmfs-fish-tools/nmfspalette
+	url = https://github.com/nmfs-ost/nmfspalette
 [submodule "phylosem"]
 	path = phylosem
 	url = https://github.com/James-Thorson-NOAA/phylosem
 [submodule "r4MAS"]
 	path = r4MAS
-	url = https://github.com/nmfs-fish-tools/r4MAS
+	url = https://github.com/NOAA-FIMS/r4MAS
 [submodule "r4ss"]
 	path = r4ss
 	url = https://github.com/r4ss/r4ss
