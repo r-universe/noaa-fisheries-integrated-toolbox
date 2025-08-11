@@ -38,7 +38,6 @@
 [submodule "StanEstimators"]
 	path = StanEstimators
 	url = https://github.com/andrjohns/StanEstimators
-	branch = main
 	registered = false
 [submodule "TMB"]
 	path = TMB
