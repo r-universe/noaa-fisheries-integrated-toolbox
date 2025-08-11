@@ -35,6 +35,11 @@
 [submodule "SSMSE"]
 	path = SSMSE
 	url = https://github.com/nmfs-ost/SSMSE
+[submodule "StanEstimators"]
+	path = StanEstimators
+	url = https://github.com/andrjohns/StanEstimators
+	branch = main
+	registered = false
 [submodule "TMB"]
 	path = TMB
 	url = https://github.com/kaskr/adcomp
