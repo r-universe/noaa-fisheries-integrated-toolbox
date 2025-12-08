@@ -15,6 +15,12 @@
   {
     "package": "asar",
     "url": "https://github.com/nmfs-ost/asar",
+    "via": ["FIMS", "stockplotr"],
+    "from": "FIMS"
+  },
+  {
+    "package": "asar",
+    "url": "https://github.com/nmfs-ost/asar",
     "via": ["stockplotr"],
     "from": "stockplotr"
   },
@@ -38,6 +44,24 @@
     "via": ["SSMSE"],
     "branch": "master",
     "from": "SSMSE"
+  },
+  {
+    "package": "gitlabr",
+    "url": "https://github.com/ThinkR-open/gitlabr",
+    "via": ["FIMS", "lozen"],
+    "from": "FIMS"
+  },
+  {
+    "package": "lozen",
+    "url": "https://github.com/ThinkR-open/lozen",
+    "via": ["FIMS"],
+    "from": "FIMS"
+  },
+  {
+    "package": "r4ss",
+    "url": "https://github.com/r4ss/r4ss",
+    "via": ["FIMS", "stockplotr", "asar"],
+    "from": "FIMS"
   },
   {
     "package": "r4ss",
@@ -75,7 +99,25 @@
   {
     "package": "stockplotr",
     "url": "https://github.com/nmfs-ost/stockplotr",
+    "via": ["FIMS"],
+    "from": "FIMS"
+  },
+  {
+    "package": "stockplotr",
+    "url": "https://github.com/nmfs-ost/stockplotr",
     "via": ["asar"],
     "from": "asar"
+  },
+  {
+    "package": "testdown",
+    "url": "https://github.com/ThinkR-open/testdown",
+    "via": ["FIMS", "lozen"],
+    "from": "FIMS"
+  },
+  {
+    "package": "thinkrtemplate",
+    "url": "https://github.com/ThinkR-open/thinkrtemplate",
+    "via": ["FIMS", "lozen"],
+    "from": "FIMS"
   }
 ]

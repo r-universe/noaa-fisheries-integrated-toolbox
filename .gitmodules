@@ -83,9 +83,17 @@
 [submodule "ghactions4r"]
 	path = ghactions4r
 	url = https://github.com/nmfs-ost/ghactions4r
+[submodule "gitlabr"]
+	path = gitlabr
+	url = https://github.com/ThinkR-open/gitlabr
+	registered = false
 [submodule "glmmfields"]
 	path = glmmfields
 	url = https://github.com/seananderson/glmmfields
+[submodule "lozen"]
+	path = lozen
+	url = https://github.com/ThinkR-open/lozen
+	registered = false
 [submodule "mizer"]
 	path = mizer
 	url = https://github.com/sizespectrum/mizer
@@ -117,6 +125,14 @@
 [submodule "stockplotr"]
 	path = stockplotr
 	url = https://github.com/nmfs-ost/stockplotr
+[submodule "testdown"]
+	path = testdown
+	url = https://github.com/ThinkR-open/testdown
+	registered = false
+[submodule "thinkrtemplate"]
+	path = thinkrtemplate
+	url = https://github.com/ThinkR-open/thinkrtemplate
+	registered = false
 [submodule "wham"]
 	path = wham
 	url = https://github.com/timjmiller/wham
