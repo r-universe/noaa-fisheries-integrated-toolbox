@@ -13,12 +13,6 @@
     "from": "wham"
   },
   {
-    "package": "asar",
-    "url": "https://github.com/nmfs-ost/asar",
-    "via": ["FIMS", "stockplotr"],
-    "from": "FIMS"
-  },
-  {
     "package": "assertive.base",
     "url": "https://github.com/cran/assertive.base",
     "via": ["SSMSE"],
@@ -49,12 +43,6 @@
     "package": "lozen",
     "url": "https://github.com/ThinkR-open/lozen",
     "via": ["FIMS"],
-    "from": "FIMS"
-  },
-  {
-    "package": "r4ss",
-    "url": "https://github.com/r4ss/r4ss",
-    "via": ["FIMS", "stockplotr", "asar"],
     "from": "FIMS"
   },
   {
