@@ -41,6 +41,9 @@
 [submodule "agTrend.gam"]
 	path = agTrend.gam
 	url = https://github.com/dsjohnson/agTrend.gam
+[submodule "ageproR"]
+	path = ageproR
+	url = https://github.com/nmfs-ost/ageproR
 [submodule "asar"]
 	path = asar
 	url = https://github.com/nmfs-ost/asar
