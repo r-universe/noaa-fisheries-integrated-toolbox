@@ -29,9 +29,15 @@
 [submodule "ObsCovgTools"]
 	path = ObsCovgTools
 	url = https://github.com/kacurtis/ObsCovgTools
+[submodule "Rceattle"]
+	path = Rceattle
+	url = https://github.com/grantdadams/Rceattle
 [submodule "Rpath"]
 	path = Rpath
 	url = https://github.com/NOAA-EDAB/Rpath
+[submodule "SPoRC"]
+	path = SPoRC
+	url = https://github.com/chengmatt/SPoRC
 [submodule "SSMSE"]
 	path = SSMSE
 	url = https://github.com/nmfs-ost/SSMSE
