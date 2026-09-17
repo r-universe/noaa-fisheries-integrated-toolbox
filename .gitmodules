@@ -8,6 +8,7 @@
 [submodule "FIMS"]
 	path = FIMS
 	url = https://github.com/noaa-fims/fims
+	branch = *release
 [submodule "FishEconProdOutput"]
 	path = FishEconProdOutput
 	url = https://github.com/EmilyMarkowitz-NOAA/FishEconProdOutput
@@ -53,6 +54,7 @@
 [submodule "asar"]
 	path = asar
 	url = https://github.com/nmfs-ost/asar
+	branch = *release
 [submodule "bayesdfa"]
 	path = bayesdfa
 	url = https://github.com/fate-ewi/bayesdfa
@@ -80,9 +82,6 @@
 [submodule "phylosem"]
 	path = phylosem
 	url = https://github.com/James-Thorson-NOAA/phylosem
-[submodule "r4MAS"]
-	path = r4MAS
-	url = https://github.com/NOAA-FIMS/r4MAS
 [submodule "r4ss"]
 	path = r4ss
 	url = https://github.com/r4ss/r4ss
@@ -92,6 +91,7 @@
 [submodule "stockplotr"]
 	path = stockplotr
 	url = https://github.com/nmfs-ost/stockplotr
+	branch = *release
 [submodule "wham"]
 	path = wham
 	url = https://github.com/timjmiller/wham

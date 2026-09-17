@@ -1,0 +1,14 @@
+[
+  {
+    "package": "asar",
+    "releasetag": true
+  },
+  {
+    "package": "FIMS",
+    "releasetag": true
+  },
+  {
+    "package": "stockplotr",
+    "releasetag": true
+  }
+]
