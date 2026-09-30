@@ -64,6 +64,9 @@
 [submodule "eSDM"]
 	path = eSDM
 	url = https://github.com/smwoodman/eSDM
+[submodule "fishprior"]
+	path = fishprior
+	url = https://github.com/NOAA-FIMS/fishprior
 [submodule "ghBackup"]
 	path = ghBackup
 	url = https://github.com/nmfs-ost/ghBackup
