@@ -94,7 +94,7 @@
 [submodule "stockplotr"]
 	path = stockplotr
 	url = https://github.com/nmfs-ost/stockplotr
-	branch = v0.14.0
+	branch = v0.15.0
 [submodule "wham"]
 	path = wham
 	url = https://github.com/timjmiller/wham
