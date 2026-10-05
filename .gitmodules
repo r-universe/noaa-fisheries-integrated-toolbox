@@ -8,7 +8,7 @@
 [submodule "FIMS"]
 	path = FIMS
 	url = https://github.com/noaa-fims/fims
-	branch = v0.10.0
+	branch = v0.11.0
 [submodule "FishEconProdOutput"]
 	path = FishEconProdOutput
 	url = https://github.com/EmilyMarkowitz-NOAA/FishEconProdOutput
