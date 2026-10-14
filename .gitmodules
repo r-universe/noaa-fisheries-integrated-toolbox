@@ -54,7 +54,7 @@
 [submodule "asar"]
 	path = asar
 	url = https://github.com/nmfs-ost/asar
-	branch = v2.6.0
+	branch = v2.7.0
 [submodule "bayesdfa"]
 	path = bayesdfa
 	url = https://github.com/fate-ewi/bayesdfa
