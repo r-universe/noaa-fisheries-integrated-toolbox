@@ -95,6 +95,9 @@
 	path = stockplotr
 	url = https://github.com/nmfs-ost/stockplotr
 	branch = v0.15.0
+[submodule "swfscDAS"]
+	path = swfscDAS
+	url = https://github.com/SWFSC/swfscDAS
 [submodule "wham"]
 	path = wham
 	url = https://github.com/timjmiller/wham
